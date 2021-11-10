@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web devlopment,vb.net
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me 
+- my mail nikhilchaurasia211@gmail.com
 
 <!---
 nikhilxo1/nikhilxo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
