@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nikhilxo1
-- 👀 I’m interested in learning computer language
-- 🌱 I’m currently learning web devlopment,vb.net
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in learning New Technology
+- 🌱 I’m currently preparing for aws solution architect
 - 📫 How to reach me 
 - my mail nikhilchaurasia211@gmail.com
 
